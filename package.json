@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"fs-extra": "*",
+		"formidable": "*",
+		"mime": "*",
+		"csv": "*"
+	}
+}
